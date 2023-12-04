@@ -32,7 +32,6 @@ Du spielst dieses Spiel im Terminal-Fenster.
 <img src="./bilder/zwei.jpg" alt="fast_erwischt" />
 
 danke,
-
 Darrell
 
 <h4>Erwischt</h4>
