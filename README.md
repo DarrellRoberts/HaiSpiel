@@ -31,6 +31,10 @@ Du spielst dieses Spiel im Terminal-Fenster.
 <h4>Fast erwischt</h4>
 <img src="./bilder/zwei.jpg" alt="fast_erwischt" />
 
+danke,
+
+Darrell
+
 <h4>Erwischt</h4>
 <img src="./bilder/drei.jpg" alt="erwischt" />
 
