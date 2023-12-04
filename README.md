@@ -10,6 +10,7 @@ Du spielst dieses Spiel im Terminal-Fenster.
 2. Du darfst dich aber nicht im Fischernetz "#" verfangen!
 
 3. Du kannst dich mit der folgenden Steuerung bewegen:
+
   Nach oben = "w"
 
   Nach unten = "s"
