@@ -24,7 +24,7 @@ Du spielst dieses Spiel im Terminal-Fenster.
 
   **Screenshots**
 
-<h2>Spielbild</h2>
+<h4>Spielbild</h4>
 <img src="./bilder/eins.jpg" alt="spielbild" />
 
 **Fast erwischt**
