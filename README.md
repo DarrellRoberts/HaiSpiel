@@ -27,12 +27,12 @@ Du spielst dieses Spiel im Terminal-Fenster.
 <h4>Spielbild</h4>
 <img src="./bilder/eins.jpg" alt="spielbild" />
 
-**Fast erwischt**
-![fast_erwischt](./bilder/zwei.jpg)
+<h4>Fast erwischt</h4>
+<img src="./bilder/zwei.jpg" alt="fast_erwischt" />
 
-**Erwischt**
-![erwischt](./bilder/drei.jpg)
+<h4>Erwischt</h4>
+<img src="./bilder/drei.jpg" alt="erwischt" />
 
-**Futter gekriegt und Ziel erreicht. Gewonnen**
-![gewonnen](./bilder/vier.jpg)
+<h4>Das Futter gekriegt und das Ziel erreicht </h4>
+<img src="./bilder/vier.jpg" alt="gewonnen" />
 
