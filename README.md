@@ -18,6 +18,21 @@ Du spielst dieses Spiel im Terminal-Fenster.
   
   Recht = "d"
 
+  Das Spiel ist soweit sehr einfach aber ich werde es verbessern. 
+
+  Fortsetzung folgt!
+
   **Screenshots**
 
+**Spielbild**
+![spielbild](./bilder/eins.jpg)
+
+**Fast erwischt**
+![fast_erwischt](./bilder/zwei.jpg)
+
+**Erwischt**
+![erwischt](./bilder/drei.jpg)
+
+**Futter gekriegt und Ziel erreicht. Gewonnen**
+![gewonnen](./bilder/vier.jpg)
 
